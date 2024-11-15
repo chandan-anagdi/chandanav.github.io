@@ -11,76 +11,66 @@ redirect_from:
 
 Education
 ======
-* **Carnegie Mellon University, Pittsburgh** 
-  * MS in Intelligent Information Systems (MIIS), Aug 2021 - Dec 2022
+* **Technical University of Dresden, Dresden** 
+  * MS in Computational Logic (CL), Sep 2018 - May 2021
   * Courses:
-    * Machine Learning (10601)
-    * Advanced NLP (11711)
-    * Search Engines (11642)
-    * Deep Learning (11785)
-    * Multimodal Machine Learning (11777)
-    * Machine Learning for Large Datasets (10605)
-    * Computer Vision (16720)
-* **National Institute of Technology Karnataka (NITK) Surathkal, India**
-  * B-Tech in Information Technology, 2013 - 2017
+    * Machine Learning 
+    * Deep Learning 
+    * Computer Vision 
+    * knowledge graph
+    * Natural language processing
+  * Thesis (BMW, Landshut) - Production cost optimization using AI methodologies. 
+    * Multi-objective optimization using hybrid (genetic algorithm + parallel tabu search)meta-heuristic algorithm.
+    * Multi-objective optimization using Multi-agent reinforcement learning
+
+* **Sri Jayachamarajendra college of Engineering (SJCE) Mysore, India**
+  * Bachelor of Engineering in Electronics & Communication, 2013 - 2017
+  * Thesis - Text to speech for Indic languages in collaboration with **Carnegie Mellon University, USA**
 
 Work experience
 ======
-* **Google : _Aug 2023 - Present_**
+* **Adidas, Herzogenaurach : _May 2022 - Present_**
+  * _**Solutions Architect**_
+    * Designed and implemented a comprehensive end-to-end demand forecasting solution that is now utilized across all markets (EU, NAM, LAM, ASIA, AFRICA). This project has significantly enhanced the accuracy and efficiency of demand predictions, driving better decision-making and resource allocation worldwide.
+    * Supported global teams with pipeline deployment and issue resolution.
+    * Conducted comprehensive training for technical professionals, ensuring effective utilization of forecasting tools and processes.
+    * During the last 3.5 years at Adidas, I partnered with the recruitment team and interviewed about 20 candidates, involved in technical branding by conducting 5 tech workshops, hosted 3 summer interns, and mentored few junior engineers.
+
+* **Adidas, Herzogenaurach : _Jul 2021 - April 2022_**
   * _**Machine Learning Engineer**_
-
-* **JPMogran Chase : _Feb 2023 - Aug 2023_**
-  * _**Machine Learning Engineer**_
-    * Designed and productized a multi-document question-answering system that leverages the in-context learning ability of LLMs.
-    * Incorporated frameworks to evaluate and verify the consistency of system output through prompting and self-consistency checkers.
+    * Developed an end-to-end machine learning pipeline for financial forecasting, integrating advanced algorithms and data processing techniques to enhance accuracy and streamline planning. Automated the forecasting process from data ingestion to model deployment, ensuring consistent and reliable outcomes.
+    * Led the migration of SageMaker-based projects to Databricks, successfully transitioning complex machine learning workflows to a more scalable and collaborative platform. This migration not only improved performance and scalability but also enabled better integration with existing data infrastructure, fostering more efficient and effective collaboration among data teams.
     
-* **Google : _May 2022 - Aug 2022_**
-  * _**Machine Learning Engineer Intern (Applied ML) - Google Cloud AI**_
-    * Productized the training and serving of character-level transformer model at scale for classification tasks in Document AI.
-    * Built ML infrastructure and pipeline for training and serving JAX models in Document AI solution of Google Cloud.
-    * Optimized the model serving and achieved a 5X speed-up in inference time, thus meeting the customer specified QPS.
+* **BMW, Landshut : _Jul 2020 - Dec 2020_**
+  * _**Data Science Intern**_
+    * Binary Classification task to predict quality in production process. Worked on IOT related projects. 
+    * Designed and deployed a web application for data entry in the foundry, utilizing AngularJS and Node.js.
 
-* **Carnegie Mellon University : _Aug 2021 - Nov 2021_**
-  * _**Research Assistant - Amazon Alexa Prize Challenge**_
-    * Member of CMU team for the 2021 Amazon Alexa Prize TaskBot Challenge. One of the 10 teams selected worldwide by Amazon.
-    * Designed the result re-ranking module for the TaskBot which handles ‘Recipes’ and ‘How Do I?’ tasks.
 
-* **Intuit : _Aug 2017 - Aug 2021_**
-  * _**Senior Software Engineer**_
-    * Established integration patterns for connecting to third-party CRM applications from QuickBooks Online that brought down the development time from 2 quarters to 2 sprints.
-    * Improved the resiliency of the premium-app integration pipeline in QBO Advanced by performing FMEA, incorporating automation, and building fallback mechanisms in case of failures.
-    * During the 4 years at Intuit, I partnered with the recruitment team and interviewed about 100 candidates, involved in technical branding by conducting 5 tech workshops, hosted 3 summer interns, and mentored 7 junior engineers.
-    
-  * _**Software Engineer 2**_
-    * Designed and built an end-to-end DATA-IN pipeline for Salesforce integration with QuickBooks Online Advanced without any production escapes.
-    * Lead a team of 4 to build and integrate React typeahead search component into transactions pages in QuickBooks.
-    * Performed network waterfall analysis and optimized the static assets to bring down the page load time of two core accounting workflows of QuickBooks Online as measured by a 30% reduction in the TP99 metric.
-    
-  * _**Software Engineer 1**_
-    * Migrated the legacy credit card processing application in QuickBooks Desktop to a modern JavaScript-based solution. This application sees a charge volume of 250M USD a Year.
-    * Built a workflow that enables QuickBooks Desktop payments customers to set up OAuth 2 identities using invitation and request access workflows.
+* **Deeply Human AI, Dresden : _Nov 2018 - Jun 2020_**
+  * _**Research Assistant**_
+    * Developed an NLP based bot which helps kids to learn mathematics based on their interaction through a web interface. 
 
-* **Indian Institute of Technology Bombay : _Aug 2016 - Dec 2016_**
-  * _**Research Intern**_
-    * Designed and developed an Information Retrieval System for Hindi capable of handling poorly articulated queries.
-    * Designed a hierarchical weighted taxonomy for the Hindi language and integrated it with the IR System.
+* **Tieto, Bengaluru : _Jun 2017 - Sep 2018_**
+  * _**Software Engineer**_
+    * Designed and developed custom software solutions for the Norwegian government using C#.
+
+Projects
+======
+* **Self-Driving Car Simulation using direct perception and Answer Set Programming: Masters Project**
+  * A direct perception approach which maps video input to intermediate representations suitable for autonomous navigation in complex urban environments given high-level directional inputs
   
-* **Intuit : _May 2016 - Jul 2016_**
-  * _**Software Engineering Intern**_
-    * Automated multi-threaded data synchronization workflow in QuickBooks Desktop using C# NUnit framework to bring down the testing time from 3 days to 1 hour.
-
 Skills
 ======
 * Programming
-  * Python, Java, C, C++, JavaScript
+  * Python, R, Java, C#, C++, JavaScript
 * Domains
-  * Machine Learning, Deep Learning, NLP, LLM, Search, Information Retrieval, Full-stack Software Development, Web Performance.
+  * Machine Learning, Deep Learning, NLP, LLM, Full-stack Software Development, Web Application Development.
 * Technologies/Frameworks
-  * PyTorch, TensorFlow, PySpark, Snowpark, Snowflake, React, REST, GraphQL, MySql, Git, Splunk, AWS, GCP, Docker, Camunda
+  * PyTorch, TensorFlow, PySpark, Django, Angular, REST, GraphQL, MySql, Git, Databricks, AWS, Docker, Kubernetes
 
 Activities and Achievements
 ======
-* Conducted technical sessions on **Web Performance Optimization** and **Keyboard accessibility in Web Applications**.
-* Conducted workshops on **Machine Learning**, **Amazon Web Services**, **Web Development using React and GraphQL** for university students.
-* Work on **Getting Keyboard Shortcuts Right for Web Applications** was selected for presentation at CSUN Assistive Technology Conference 2020, Anaheim USA.
-* Received JASSO Scholarship from the Japanese government.
+* Conducted technical sessions on **ML best practices**.
+* Conducted workshops on **Machine Learning**, **Web Development using Angular and GraphQL** for university students.
+* Promoted as the CTO of **Deeply Human AI** while working as a Research Student during Master's

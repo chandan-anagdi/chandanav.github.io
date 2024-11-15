@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vaishakh Keshava"
+title: "Chandan Angadi Veeresha"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Vaishakh Keshava, a recent graduate from the School of Computer Science, Carnegie Mellon University. My area of specialization is Machine Learning, Deep Learning, Natural Language Processing, and Information Retrieval. 
+I am Chandan Angadi, a Computational Logic graduate from the Technical University of Dresden, Germany, specializing in Artificial Intelligence. My expertise spans Machine Learning, Deep Learning, and Optimization techniques, with a focus on demand and financial forecasting solutions.
 
-I currently work as a Machine Learning Engineer at Google, where my focus revolves around Natural Language Processing. Before this, I  worked as Machine Learning Engineer at JPMorgan Chase and Co. where I worked on NLP and LLMs. Prior to that I was a Senior Software Engineer at Intuit.
+I currently work as a Solution Architect at Adidas, where I design and implement scalable end-to-end forecasting systems used globally. Before that, I held roles as a Data Science Intern at BMW and a Software Developer at Tieto.
 
-My area of research includes neural information retrieval and NLP. I worked with [Prof. Jamie Callan](http://www.cs.cmu.edu/~callan/) on building contextualized document term representations using deep contextual language models that improve the efficiency and effectiveness of a neural information retrieval system. One of my recent works with [Prof. Graham Neubig](http://www.phontron.com/) involves building a multi-dimensional evaluation framework for evaluating NLG using the in-context learning ability of LLM.
+My research interests include multi-objective optimization and reinforcement learning for real-world applications. During my Master's thesis, I developed hybrid optimization algorithms to improve production costs, collaborating with TU Dresden and BMW.  
+As part of my work, I am currently focusing my research on LLM-based applications to assist the platform service team at Adidas, developing a POC project to enhance their efficiency. My projects reflect my passion for solving complex challenges and driving innovation across industries.
