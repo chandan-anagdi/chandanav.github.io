@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chandan Angadi Veeresha"
+title                    : "Vaishakh Keshava"
 title_separator          : "-"
-name                     : &name "Chandan Angadi Veeresha"
+name                     : &name "Vaishakh Keshava"
 description              : &description "personal description"
-url                      : https://chandanav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://vaishakh-k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chandan-angadi/chandanav.github.io"
+repository               : "vaishakh-k/vaishakh-k.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "CHandan Angadi Veeresha"
+  name             : "Vaishakh Keshava"
   avatar           : "profile.jpg"
-  bio              : "Solutions Architect, Adidas"
-  location         : "Herzogenaurach, Bavaria"
+  bio              : "Machine Learning Engineer, Google"
+  location         : "Sunnyvale, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            : "chandanav8421@gmail.com"
+  googlescholar    : "https://scholar.google.co.in/citations?user=W7bwxkAAAAAJ&hl=en"
+  email            : "kvaishakhnambiar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chandan-anagdi"
+  github           : "Vaishakh-K"
   google_plus      :
   keybase          :
-  instagram        : # "chandan_a_v"
-  impactstory      : #
+  instagram        : # "kvaishakhnambiar"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "chandan-angadi-veeresha-89a909124"
-  orcid            : #
+  linkedin         : "vaishakh-keshava"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # ""
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

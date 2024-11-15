@@ -7,7 +7,7 @@ redirect_from:
   - /links
 ---
 ## Download
-**[Chandan's Resume](https://drive.google.com/file/d/1ufOosYNYDld3oW9veoaTaEBnt1a4wGqQ/view?usp=sharing)**
+**[Vaishakh's Resume](https://drive.google.com/file/d/1ufOosYNYDld3oW9veoaTaEBnt1a4wGqQ/view?usp=sharing)**
 
 ## Blogs
-**[Getting Started with Local Debugging on VS Code Using Databricks Clusters](https://medium.com/@chandanav8421/getting-started-with-local-debugging-on-vs-code-using-databricks-clusters-for-macos-919f0f2669e8)** 
+**[Unraveling the growth of a Software Engineer](https://medium.com/@kvaishakhnambiar17/unraveling-the-growth-of-a-software-engineer-241820ed5a28)** 
