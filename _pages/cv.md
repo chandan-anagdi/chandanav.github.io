@@ -23,7 +23,7 @@ Education
     * Multi-objective optimization using hybrid (genetic algorithm + parallel tabu search) meta-heuristic algorithm.
     * Multi-objective optimization using Multi-agent reinforcement learning
 
-* **Sri Jayachamarajendra college of Engineering (SJCE) - Mysore, India**
+* **Sri Jayachamarajendra college of Engineering - Mysore, India**
   * Bachelor of Engineering in Electronics & Communication, 2013 - 2017
   * Thesis - Text to speech for Indic languages in collaboration with **Carnegie Mellon University, USA**
 
@@ -31,10 +31,15 @@ Work experience
 ======
 * **adidas AG - Herzogenaurach, Germany : _May 2022 - Present_**
   * _**Solutions Architect**_
-    * Designed and implemented a comprehensive end-to-end demand forecasting solution that is now utilized across all markets (EU, NAM, LAM, ASIA, AFRICA). This project has significantly enhanced the accuracy and efficiency of demand predictions, driving better decision-making and resource allocation worldwide.
-    * Supported global teams with pipeline deployment and issue resolution.
-    * Conducted comprehensive training for technical professionals, ensuring effective utilization of forecasting tools and processes.
-    * During the last 3.5 years at Adidas, I partnered with the recruitment team and interviewed about 20 candidates, involved in technical branding by conducting 5 tech workshops, hosted 3 summer interns, and mentored few junior engineers.
+    * Designed and implemented an end-to-end time-series-based Demand Forecasting solution using tree-based models, deployed across global markets (EU, NAM, LAM, ASIA, AFRICA).
+    *  Designed and implemented a framework to launch multiple dynamic Databricks jobs from a single base Databricks job, streamlining workflows.
+    * Developed and tested a concept for local debugging using VS Code with Databricks Clusters, enhancing the development and testing process.
+    * Created a Data Science template adopted by multiple teams within the Data & Analytics department, standardizing workflows and boosting productivity.
+    * Redesigned an existing ETL pipeline under the Demand Forecasting project, reducing runtime (8 hours to just 1 hour) and costs.
+    * Took full ownership of all Advanced Analytics projects (15+), including ML model pipeline development, backend system design, A/B testing, code reviews, and rollouts.
+    * Assisted teams across the Data & Analytics department on MLOps topics, promoting best practices and efficiency.
+    * Currently researching and developing LLM-based applications to support the Platform Service team at Adidas, creating a proof-of-concept (POC) project to enhance their operational efficiency.
+    * During the last 3.5 years at Adidas, I partnered with the recruitment team and interviewed about 20 candidates, involved in technical branding by conducting 5 tech workshops, hosted 3 summer interns, and mentored few junior engineers
 
 * **adidas AG, Herzogenaurach, Germany : _Jul 2021 - April 2022_**
   * _**Machine Learning Engineer**_

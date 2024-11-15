@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Chandan Angadi, a Computational Logic graduate from the Technical University of Dresden, Germany, specializing in Artificial Intelligence. My expertise spans Machine Learning, Deep Learning, and Optimization techniques, with a focus on demand and financial forecasting solutions.
+I am Chandan Angadi Veeresha, a Computational Logic graduate from the Technical University of Dresden, Germany, specializing in Artificial Intelligence. My expertise spans Machine Learning, Deep Learning, and Optimization techniques, with a focus on demand and financial forecasting solutions.
 
 I currently work as a Solution Architect at Adidas, where I design and implement scalable end-to-end forecasting systems used globally. Before that, I held roles as a Data Science Intern at BMW and a Software Developer at Tieto.
 
