@@ -69,10 +69,14 @@ Skills
 ======
 * Programming
   * Python, R, Java, C#, C++, JavaScript
-* Domains
-  * Machine Learning, Deep Learning, NLP, LLM, Full-stack Software Development, Web Application Development.
-* Technologies/Frameworks
-  * PyTorch, TensorFlow, PySpark, Django, Angular, REST, GraphQL, MySql, Git, Databricks, AWS, Docker, Kubernetes
+* AI and Machine Learning
+  * Retrieval-Augmented Generation (RAG), Fine-Tuning LLMs, Vision-Language Models (VLMs), Natural Language Processing, Deep Learning, MLOps
+* Frameworks & Tools
+  * Hugging Face Transformers, LangChain, PyTorch, TensorFlow, Scikit-learn, OpenAI API, Databricks, Docker, Kubernetes
+* Platforms & Cloud Technologies
+  * AWS, Azure, Google Cloud, REST
+* Other Skills
+  * Full-Stack Web Development, Angular, Django, MySQL, Git
 
 Activities and Achievements
 ======
