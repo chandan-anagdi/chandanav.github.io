@@ -7,7 +7,7 @@ redirect_from:
   - /links
 ---
 ## Download
-**[Chandan's Resume](https://drive.google.com/file/d/1opBXBdil5Dd8X2UxvSaVaznK-NZGbmII/view?usp=sharing)**
+**[Chandan's Resume](https://drive.google.com/file/d/175NTwKGR0MDk0iu1YHvBPAxXYSWJj38w/view?usp=sharing)**
 
 ## Blogs
 **[Getting Started with Local Debugging on VS Code Using Databricks Clusters](https://medium.com/@chandanav8421/getting-started-with-local-debugging-on-vs-code-using-databricks-clusters-for-macos-919f0f2669e8)** 
